@@ -5,7 +5,7 @@
 ### Portfolio: https://github.com/tomasliberi
 
 
-<br />
+
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -18,7 +18,7 @@
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,git,vscode,linux&perline=10"  />
 </p>
-<br />
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
