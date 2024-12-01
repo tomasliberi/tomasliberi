@@ -2,10 +2,10 @@
 
 ### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
 
-### Portfolio: https://brdhanani.github.io
+### Portfolio: https://github.com/tomasliberi
 
 <a href="https://twitter.com/dhanani_brijesh">
-  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Tomas Liberi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
